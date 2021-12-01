@@ -1,6 +1,7 @@
 ### Hello guys! I'm Rafael Rodrigues! 👨‍💻
 
 - I'm an Industrial Engineering 📈👷
+- I'm a Black Belt in Lean Six Sigma 🤺
 - I'm studying to become a Full Stack Developer at Fullture.com 🚀👨‍🎓
 - I'm currently working at Ambev on Logistics 🍻🚚
 
