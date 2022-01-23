@@ -10,7 +10,7 @@
 <div align="center">
   
   <a href="https://github.com/RafaMR7">
-  <img height="183em" src="https://i.ibb.co/0rx38w4/Logo-Tipo-Rafael-Rodrigues.png" alt="Logo-Tipo-Rafael-Rodrigues"/>
+  <img height="183em" src="https://i.ibb.co/vcdfpGk/rounded-in-photoretrica.png" alt="rounded-in-photoretrica" border="0"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaMR7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMR7&layout=compact&langs_count=7&theme=dark"/>
     
